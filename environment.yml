@@ -1,4 +1,4 @@
-name: example-environment
+name: shapely-clock
 
 channels:
 - conda-forge
@@ -6,10 +6,3 @@ channels:
 dependencies:
   - python=3.6
   - shapely
-  - fiona
-  - pyproj
-  - rtree
-  - folium
-  - geopy
-  - geopandas
-  - descartes
